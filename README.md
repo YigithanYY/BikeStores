@@ -1,3 +1,3 @@
-﻿# Published by SQL Server Tutorial, Customizing a database with a wide design and designing a restful API
+﻿# Developing an e-commerce site by customizing the advanced database design published by SQL Server Tutorial
 
 ## Please use the Wiki above to get information about endpoint and table designs.
